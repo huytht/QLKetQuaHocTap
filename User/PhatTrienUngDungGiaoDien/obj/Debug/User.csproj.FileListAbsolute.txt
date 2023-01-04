@@ -1,0 +1,52 @@
+D:\DOWNLOAD\User\PhatTrienUngDungGiaoDien\bin\Debug\PhatTrienUngDungGiaoDien.exe.config
+D:\DOWNLOAD\User\PhatTrienUngDungGiaoDien\bin\Debug\PhatTrienUngDungGiaoDien.exe
+D:\DOWNLOAD\User\PhatTrienUngDungGiaoDien\bin\Debug\PhatTrienUngDungGiaoDien.pdb
+D:\DOWNLOAD\User\PhatTrienUngDungGiaoDien\bin\Debug\EntityFramework.dll
+D:\DOWNLOAD\User\PhatTrienUngDungGiaoDien\bin\Debug\EntityFramework.SqlServer.dll
+D:\DOWNLOAD\User\PhatTrienUngDungGiaoDien\bin\Debug\EntityFramework.xml
+D:\DOWNLOAD\User\PhatTrienUngDungGiaoDien\bin\Debug\EntityFramework.SqlServer.xml
+D:\DOWNLOAD\User\PhatTrienUngDungGiaoDien\obj\Debug\User.csprojAssemblyReference.cache
+D:\DOWNLOAD\User\PhatTrienUngDungGiaoDien\obj\Debug\PhatTrienUngDungGiaoDien.ChangePasswordForm.resources
+D:\DOWNLOAD\User\PhatTrienUngDungGiaoDien\obj\Debug\PhatTrienUngDungGiaoDien.LoginForm.resources
+D:\DOWNLOAD\User\PhatTrienUngDungGiaoDien\obj\Debug\PhatTrienUngDungGiaoDien.MainForm.resources
+D:\DOWNLOAD\User\PhatTrienUngDungGiaoDien\obj\Debug\PhatTrienUngDungGiaoDien.Properties.Resources.resources
+D:\DOWNLOAD\User\PhatTrienUngDungGiaoDien\obj\Debug\User.csproj.GenerateResource.cache
+D:\DOWNLOAD\User\PhatTrienUngDungGiaoDien\obj\Debug\User.csproj.CoreCompileInputs.cache
+D:\DOWNLOAD\User\PhatTrienUngDungGiaoDien\obj\Debug\User.csproj.CopyComplete
+D:\DOWNLOAD\User\PhatTrienUngDungGiaoDien\obj\Debug\PhatTrienUngDungGiaoDien.exe
+D:\DOWNLOAD\User\PhatTrienUngDungGiaoDien\obj\Debug\PhatTrienUngDungGiaoDien.pdb
+D:\C# bao cao cuoi ki\QuanLiKetQuaHocTap\User\PhatTrienUngDungGiaoDien\bin\Debug\PhatTrienUngDungGiaoDien.exe.config
+D:\C# bao cao cuoi ki\QuanLiKetQuaHocTap\User\PhatTrienUngDungGiaoDien\bin\Debug\PhatTrienUngDungGiaoDien.exe
+D:\C# bao cao cuoi ki\QuanLiKetQuaHocTap\User\PhatTrienUngDungGiaoDien\bin\Debug\PhatTrienUngDungGiaoDien.pdb
+D:\C# bao cao cuoi ki\QuanLiKetQuaHocTap\User\PhatTrienUngDungGiaoDien\bin\Debug\EntityFramework.dll
+D:\C# bao cao cuoi ki\QuanLiKetQuaHocTap\User\PhatTrienUngDungGiaoDien\bin\Debug\EntityFramework.SqlServer.dll
+D:\C# bao cao cuoi ki\QuanLiKetQuaHocTap\User\PhatTrienUngDungGiaoDien\bin\Debug\EntityFramework.xml
+D:\C# bao cao cuoi ki\QuanLiKetQuaHocTap\User\PhatTrienUngDungGiaoDien\bin\Debug\EntityFramework.SqlServer.xml
+D:\C# bao cao cuoi ki\QuanLiKetQuaHocTap\User\PhatTrienUngDungGiaoDien\obj\Debug\User.csprojAssemblyReference.cache
+D:\C# bao cao cuoi ki\QuanLiKetQuaHocTap\User\PhatTrienUngDungGiaoDien\obj\Debug\PhatTrienUngDungGiaoDien.ChangePasswordForm.resources
+D:\C# bao cao cuoi ki\QuanLiKetQuaHocTap\User\PhatTrienUngDungGiaoDien\obj\Debug\PhatTrienUngDungGiaoDien.LoginForm.resources
+D:\C# bao cao cuoi ki\QuanLiKetQuaHocTap\User\PhatTrienUngDungGiaoDien\obj\Debug\PhatTrienUngDungGiaoDien.MainForm.resources
+D:\C# bao cao cuoi ki\QuanLiKetQuaHocTap\User\PhatTrienUngDungGiaoDien\obj\Debug\PhatTrienUngDungGiaoDien.Properties.Resources.resources
+D:\C# bao cao cuoi ki\QuanLiKetQuaHocTap\User\PhatTrienUngDungGiaoDien\obj\Debug\User.csproj.GenerateResource.cache
+D:\C# bao cao cuoi ki\QuanLiKetQuaHocTap\User\PhatTrienUngDungGiaoDien\obj\Debug\User.csproj.CoreCompileInputs.cache
+D:\C# bao cao cuoi ki\QuanLiKetQuaHocTap\User\PhatTrienUngDungGiaoDien\obj\Debug\User.csproj.CopyComplete
+D:\C# bao cao cuoi ki\QuanLiKetQuaHocTap\User\PhatTrienUngDungGiaoDien\obj\Debug\PhatTrienUngDungGiaoDien.exe
+D:\C# bao cao cuoi ki\QuanLiKetQuaHocTap\User\PhatTrienUngDungGiaoDien\obj\Debug\PhatTrienUngDungGiaoDien.pdb
+D:\Download\C# bao cao cuoi ki\QuanLiKetQuaHocTap\User\PhatTrienUngDungGiaoDien\bin\Debug\PhatTrienUngDungGiaoDien.exe.config
+D:\Download\C# bao cao cuoi ki\QuanLiKetQuaHocTap\User\PhatTrienUngDungGiaoDien\bin\Debug\PhatTrienUngDungGiaoDien.exe
+D:\Download\C# bao cao cuoi ki\QuanLiKetQuaHocTap\User\PhatTrienUngDungGiaoDien\bin\Debug\PhatTrienUngDungGiaoDien.pdb
+D:\Download\C# bao cao cuoi ki\QuanLiKetQuaHocTap\User\PhatTrienUngDungGiaoDien\bin\Debug\EntityFramework.dll
+D:\Download\C# bao cao cuoi ki\QuanLiKetQuaHocTap\User\PhatTrienUngDungGiaoDien\bin\Debug\EntityFramework.SqlServer.dll
+D:\Download\C# bao cao cuoi ki\QuanLiKetQuaHocTap\User\PhatTrienUngDungGiaoDien\bin\Debug\EntityFramework.xml
+D:\Download\C# bao cao cuoi ki\QuanLiKetQuaHocTap\User\PhatTrienUngDungGiaoDien\bin\Debug\EntityFramework.SqlServer.xml
+D:\Download\C# bao cao cuoi ki\QuanLiKetQuaHocTap\User\PhatTrienUngDungGiaoDien\obj\Debug\User.csproj.AssemblyReference.cache
+D:\Download\C# bao cao cuoi ki\QuanLiKetQuaHocTap\User\PhatTrienUngDungGiaoDien\obj\Debug\User.csproj.SuggestedBindingRedirects.cache
+D:\Download\C# bao cao cuoi ki\QuanLiKetQuaHocTap\User\PhatTrienUngDungGiaoDien\obj\Debug\PhatTrienUngDungGiaoDien.ChangePasswordForm.resources
+D:\Download\C# bao cao cuoi ki\QuanLiKetQuaHocTap\User\PhatTrienUngDungGiaoDien\obj\Debug\PhatTrienUngDungGiaoDien.LoginForm.resources
+D:\Download\C# bao cao cuoi ki\QuanLiKetQuaHocTap\User\PhatTrienUngDungGiaoDien\obj\Debug\PhatTrienUngDungGiaoDien.MainForm.resources
+D:\Download\C# bao cao cuoi ki\QuanLiKetQuaHocTap\User\PhatTrienUngDungGiaoDien\obj\Debug\PhatTrienUngDungGiaoDien.Properties.Resources.resources
+D:\Download\C# bao cao cuoi ki\QuanLiKetQuaHocTap\User\PhatTrienUngDungGiaoDien\obj\Debug\User.csproj.GenerateResource.cache
+D:\Download\C# bao cao cuoi ki\QuanLiKetQuaHocTap\User\PhatTrienUngDungGiaoDien\obj\Debug\User.csproj.CoreCompileInputs.cache
+D:\Download\C# bao cao cuoi ki\QuanLiKetQuaHocTap\User\PhatTrienUngDungGiaoDien\obj\Debug\User.csproj.CopyComplete
+D:\Download\C# bao cao cuoi ki\QuanLiKetQuaHocTap\User\PhatTrienUngDungGiaoDien\obj\Debug\PhatTrienUngDungGiaoDien.exe
+D:\Download\C# bao cao cuoi ki\QuanLiKetQuaHocTap\User\PhatTrienUngDungGiaoDien\obj\Debug\PhatTrienUngDungGiaoDien.pdb
